@@ -1,0 +1,2 @@
+MMPBSA_example/COM_traj_0.xtc filter=lfs diff=lfs merge=lfs -text
+MMPBSA_example/traj.xtc filter=lfs diff=lfs merge=lfs -text

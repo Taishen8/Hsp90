@@ -1,0 +1,1 @@
+gmx_MMPBSA -O -i mmpbsa.in -cs gromacs.pdb -ct traj.xtc -ci index.ndx -cg 10 11 -cp gromacs.top -o FINAL_RESULTS_MMPBSA.dat -eo FINAL_RESULTS_MMPBSA.csv -do FINAL_DECOMP_MMPBSA.dat -deo FINAL_DECOMP_MMPBSA.csv
